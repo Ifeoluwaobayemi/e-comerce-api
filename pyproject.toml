@@ -15,6 +15,10 @@ asyncpg = "^0.29.0"
 alembic = "^1.13.3"
 python-jose = "^3.3.0"
 passlib = {extras = ["bcrypt"], version = "^1.7.4"}
+python-dotenv = "^1.0.1"
+black = "^24.10.0"
+flake8 = "^7.1.1"
+pre-commit = "^4.0.0"
 
 
 [build-system]
